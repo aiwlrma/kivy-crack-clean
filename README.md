@@ -14,14 +14,14 @@ It is well-suited for quality assurance and defect detection tasks, providing re
 ---
 
 ## (KO) 프로젝트 설명
-- **VGG16 신경망**을 활용하여 이미지를 **균열(cracked)** 또는 **비균열(uncracked)**로 분류합니다.
+- **VGG16 신경망**을 활용하여 이미지를 **균열(cracked)** 또는 **비균열(uncracked)** 으로 분류합니다.
 - **Kivy** 프레임워크를 사용하여 직관적인 사용자 인터페이스를 제공합니다.
 - 품질 보증 및 결함 감지 작업에 적합하며 신뢰할 수 있는 예측 결과를 제공합니다.
 
 ---
 
 <details>
-<summary>README (한국어) ➡️</summary>
+<summary>README (한국어) ✅</summary>
 
 ## 주요 기능 ✨
 - **이미지 선택 및 미리보기:** Kivy UI를 통해 이미지를 선택하고 미리볼 수 있습니다.
@@ -70,7 +70,7 @@ It is well-suited for quality assurance and defect detection tasks, providing re
 </details>
 
 <details>
-<summary>README (English) ➡️</summary>
+<summary>README (English) ✅</summary>
 
 ## Key Features ✨
 - **Image Selection and Preview**: Select and preview images via an intuitive Kivy UI.
