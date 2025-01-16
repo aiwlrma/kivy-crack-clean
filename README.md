@@ -20,6 +20,17 @@ It is well-suited for quality assurance and defect detection tasks, providing re
 
 ---
 
+| **Screenshot1**            | **Screenshot2**                                    |
+|-------------------------|---------------------------------------------|
+| ![image](https://github.com/user-attachments/assets/4ed48b14-ccd2-4b86-8e3d-3952b95c18da) | ![image](https://github.com/user-attachments/assets/ede7cb3b-4ee7-4d3e-acc2-1482fadfb44e)  |
+|  **Step1 Main page** : Home Screen    |  **Step2 Select User Path** : Select Drive, File Path   |
+| ![image](https://github.com/user-attachments/assets/af685817-d515-4760-9c05-bbac2ecf5fe6) | ![image](https://github.com/user-attachments/assets/9b31ae7f-38f3-4b3e-a66f-9332e01cf5b5) |
+| **Step3 Select User File** : Select the desired file  | **Step4 Image Analysis** : Crack, Uncrack Determination   |
+
+
+
+---
+
 <details>
 <summary>README (한국어) ✅</summary>
 
